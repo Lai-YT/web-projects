@@ -6,4 +6,4 @@ Take the content for the homepage of a bird watching website and add structural 
 
 The following screenshot shows what the page looks like after being marked up. \
 <br>
-<img src="./assets/assessments_page_index_html.png" alt="screenshot of index.html" width=640 height=738>
+<img src="./assets/assessments_page_index_html.png" alt="screenshot of index.html" width=640 height=5555>
