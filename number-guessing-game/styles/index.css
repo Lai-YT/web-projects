@@ -1,0 +1,21 @@
+html {
+  font-family: sans-serif;
+}
+
+body {
+  max-width: 800px;
+  min-width: 480px;
+
+  /* makes body centered */
+  width: 50%;
+  margin: 0 auto;
+}
+
+.form input[type="number"] {
+  width: 200px;
+}
+
+.last-result {
+  color: white;
+  padding: 3px;
+}
